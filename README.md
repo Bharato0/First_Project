@@ -1,4 +1,3 @@
-# First_Project
 # Basic Calculator in Python
 
 def add(x,y):
